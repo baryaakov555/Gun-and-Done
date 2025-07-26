@@ -17,7 +17,8 @@ Get the latest build here:
 * Two Gun Modes:
 
   * Push Mode (Red): Shoot surfaces to launch yourself using recoil.
-  * Echo Mode (Blue): Shoot surfaces to teleport: First bounce would mark the spot, second bounce would instantly teleport you there, if no second bounce within 3 seconds --> teleport to the first marked spot.
+  * Echo Mode (Blue): Shoot surfaces to teleport: First bounce would mark the spot, second bounce would instantly teleport you there.
+  * If no second bounce within 3 seconds --> teleport to the first marked spot.
 * Physics-based Movement: No traditional controls — every jump, climb, and dash is powered by your shots.
 * Punishing Progression: No lives, no power-ups — success depends entirely on skill.
 * Speedrunning Focus: Restart instantly, track progress with a "big fall" counter, and aim for flawless runs.
